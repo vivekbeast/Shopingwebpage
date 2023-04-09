@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Cinzel+Decorative:wght@700&display=swap');
+
+
+html{
+    background: linear-gradient(to left, darkgray, lightgray);
+}
+
+
+.cont{
+    width: 95%;
+    height: 10vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categorybuttons{
+    display: flex;
+    justify-content: space-around; 
+}
+.h1{
+    font-family: monospace;
+    text-align:center;
+    width: 455px;
+    height: 34px;
+    border-radius: 23px 2px 2px 23px;
+    background-color: lightgray;
+    box-shadow: 1px 1px 19px 5px #888888;
+    transition: background-color 0.3s ease-in-out;
+}
+.h1:hover {
+   background-color: lightgoldenrodyellow;
+}
+.h2{
+    font-family: monospace;
+    width: 455px;
+    height: 34px;
+    background-color: lightgray;
+    box-shadow: 1px 1px 19px 5px #888888;
+    transition: background-color 0.3s ease-in-out;
+}
+.h2:hover {
+   background-color: lightgoldenrodyellow;
+}
+.h3{
+    font-family: monospace;
+    width: 455px;
+    height: 34px;
+    background-color: lightgray;
+    box-shadow: 1px 1px 19px 5px #888888;
+    transition: background-color 0.3s ease-in-out;
+}
+.h3:hover {
+   background-color: lightgoldenrodyellow;
+}
+.h4{
+    font-family: monospace;
+    width: 455px;
+    height: 34px;
+    border-radius: 2px 23px 23px 2px;
+    box-shadow: 1px 1px 19px 5px #888888;
+    background-color: lightgray;
+    transition: background-color 0.3s ease-in-out;
+}
+.h4:hover {
+   background-color: lightgoldenrodyellow;
+}
+
+.inputs{
+    padding: 4px;
+    font-size: 11px;
+    border-radius: 23px 23px 23px 23px;
+    background-color: lightcyan;
+}
+.cont1{
+    width: 95%;
+    height: 7vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cl{
+   width: 95%;
+   height: 80vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.src{
+   width: 90%;
+   height: 245vh;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.yo{
+    height: 723px;
+    width: 923px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid lightgey;
+    border-radius: 50px;
+    box-shadow: 33px 33px 19px gray
+}
+.oy{
+    border: 10px solid lightgey;
+    border-radius: 185px;
+    box-shadow: 33px 33px 22px darkgray;
+}
+.counting{
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Chewy';
+    flex-direction: column; 
+    
+}
+.title{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 5px 2px 12px black;
+    
+}
+.col{
+    width: 400px;
+    height: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.input{
+    display: block;
+    width: 53px;
+    height: 30%;
+    text-align: center;
+    font-family: 'Chewy';
+    font-size: 22px;
+    color: darkred;
+    border: 3px solid lightgray;
+    background-color: lightgray;
+    box-shadow: 7px 0px 12px black;
+}
+.adding{
+    background-color: lightgreen;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    width: 99%;
+    border-radius: 45px;
+    font-family: 'Chewy';
+    color: darkgreen;
+    box-shadow: 12px 13px 23px black;
+    
+}
+.rate{
+    font-size: 33px;
+    font-family: monospace;
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
+
+
